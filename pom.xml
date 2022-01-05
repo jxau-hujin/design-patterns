@@ -11,6 +11,7 @@
     <modules>
         <module>template-method</module>
         <module>simple-factory</module>
+        <module>strategy</module>
     </modules>
 
     <properties>
